@@ -33,7 +33,7 @@ It mimics the SaaS platform used by the **Levo CLI**.
 ### 1. Clone Repo & Setup Environment
 ```bash
 git clone https://github.com/sairamyadhav/levoSaas.git
-cd levo-assessment
+cd levoSaas
 
 python -m venv venv
 source venv/bin/activate  # (Linux/Mac)
